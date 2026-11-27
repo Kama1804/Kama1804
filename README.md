@@ -1,12 +1,13 @@
-# 👋 Hi, I'm KAMAPUTRA
-
 <div align="center">
 
-<a href="https://kamaputra.site">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+UNISEL;Data+Analytics+%26+Business+Intelligence;AI%2FML+%26+Computer+Vision;Building+Practical+Software+Solutions" alt="Typing SVG" />
-</a>
+<h1 align="center">👋 Hi, I'm KAMAPUTRA</h1>
 
-**Turning data into insights and ideas into practical solutions.**
+<a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+UNISEL;Data+Analytics+%26+Business+Intelligence;AI%2FML+%26+Computer+Vision;Building+Practical+Software+Solutions" alt="Typing SVG" />
+
+</a>
+<br/><br/>
 
 <a href="https://kamaputra.site">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" />
@@ -24,33 +25,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Universiti Selangor (UNISEL)** with an interest in using technology to solve real-world problems.
+Computer Science (Hons.) student at **Universiti Selangor (UNISEL)** focused on data analytics, machine learning, and full-stack web development.
 
-I enjoy working with data, exploring artificial intelligence, and developing applications that make information easier to understand and use.
-
-**My main areas of interest:**
-
-- 📊 **Data Analytics:** Understanding data, creating dashboards, and discovering business insights.
-- 🤖 **Artificial Intelligence:** Exploring machine learning, image recognition, and predictive systems.
-- 💻 **Software Development:** Building web applications, especially backend systems and database management.
+- 📊 **Data Analytics & BI:** ETL pipelines, SQL querying, and interactive Power BI dashboards.
+- 🤖 **AI & Computer Vision:** Time-series demand forecasting, object detection (YOLOv8), and LLM integrations.
+- 💻 **Software Engineering:** Backend APIs, relational database design, and cloud deployment.
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are three projects that showcase my experience in data analytics, AI, and software development.
-
 ### 1. Multi-Outlet Sales Forecasting & Decision Support System
 
-An AI-powered system that analyzes coffee shop sales, forecasts future demand, and helps business owners make better inventory and staffing decisions.
+End-to-end sales analytics and demand forecasting system built for multi-outlet café operations.
 
-**Key Features:**
-- Sales analysis across multiple outlets.
-- Predictive forecasting using Facebook Prophet.
-- Inventory and ingredient recommendations.
-- AI assistant for business-related questions.
-
-**Tech Stack:**
+- Multi-outlet sales tracking and KPI reporting.
+- Demand forecasting with Facebook Prophet using weather and holiday regressors.
+- Automated ingredient procurement and stock recommendations.
+- Conversational assistant powered by Gemini API for natural-language operational queries.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -60,18 +52,16 @@ An AI-powered system that analyzes coffee shop sales, forecasts future demand, a
 
 ### 2. NeuroScan AI – Medical Imaging Analysis
 
-An AI-powered medical imaging project that analyzes brain MRI images for tumor detection, supported by an interactive analytics dashboard.
+Brain MRI tumor detection pipeline paired with a structured analytics warehouse.
 
-**Key Features:**
-- AI-based brain MRI image analysis.
-- Brain tumor detection using computer vision.
-- Interactive dashboard for exploring related data.
-
-**Tech Stack:**
+- Automated brain tumor detection and localization across MRI scans using YOLOv8.
+- Interactive Streamlit dashboard backed by a star-schema data warehouse.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<br/>
 
 <div align="center">
 
@@ -129,20 +119,10 @@ An AI-powered medical imaging project that analyzes brain MRI images for tumor d
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-
----
-
-## 🏆 Achievements & Experience
-
-- 🎓 **Bachelor of Computer Science (Hons.)** – Universiti Selangor (UNISEL).
-- 📚 **CGPA:** 3.89 | 9-time Dean's List Award recipient.
-- 🏅 **Top Coder Malaysia 2025:** 5th Place (University Level).
-- 🛣️ **RoadSense AI:** Enumerator for a road damage research project.
-- 🏢 **AntsBees Sdn. Bhd.:** Former Software Developer Intern.
 
 ---
 
@@ -158,7 +138,7 @@ An AI-powered medical imaging project that analyzes brain MRI images for tumor d
 
 ---
 
-## 🐍 contribution_animation
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -168,21 +148,18 @@ An AI-powered medical imaging project that analyzes brain MRI images for tumor d
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
-- Advanced SQL and database management.
-- Power BI dashboards, DAX, and data storytelling.
-- Predictive analytics and machine learning.
-- AI-powered automation and intelligent workflows.
-- Software deployment and cloud technologies.
+- Query optimization, window functions, and relational data warehousing.
+- DAX modeling and executive Power BI reporting.
+- Automated data profiling pipelines and agentic analytics workflows.
+- Cloud deployment, DNS routing, and containerized applications.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Contact
 
-I'm open to connecting with developers, data professionals, and people working on interesting technology projects.
-
-Interested in opportunities related to **Data Analytics, Business Intelligence, AI/ML, and Software Development**.
+Open to opportunities in **Data Analytics, Business Intelligence, AI/ML, and Software Development**.
 
 <div align="center">
 
@@ -190,16 +167,10 @@ Interested in opportunities related to **Data Analytics, Business Intelligence, 
   <img src="https://img.shields.io/badge/Website-kamaputra.site-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:kama.putra.kk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-kama.putra.kk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Kama1804">
   <img src="https://img.shields.io/badge/GitHub-Kama1804-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<i>"Keep learning, keep building, and keep improving."</i>
-
-⭐ Thanks for visiting my profile!
 
 </div>
